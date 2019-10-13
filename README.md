@@ -68,3 +68,6 @@ Please note:
 ********
 ### License Justification
 I chose to use the MIT license with DoSomething so that I could maximize the usability of my code for others. I have no vested interests in profiting off of it in any way, so I went with a license that I believe granted the most liberties to those who want to use my code.
+
+### Code of Conduct Justification
+We chose to use the Contributor Covenant because it best encapsilates our beliefs in keeping a safe and accepting community of contributors. The Contributor Covenant is one of if not the most inclusive and well worded code of conducts. For this reason we decided to use it for our project.
