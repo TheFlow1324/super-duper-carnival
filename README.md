@@ -55,7 +55,7 @@ Please note:
 
 1. Pull Requests will be ignored until I receive a message from the contributor.
 2. Issue Requests will be ignored - this is a full release.
-3. Please refer to the [code of conduct]() for further details on contribution and fostering our project enviroment as a contributer
+3. Please refer to the [code of conduct](https://github.com/TheFlow1324/super-duper-carnival/blob/master/code-of-conduct.md) for further details on contribution and fostering our project enviroment as a contributer
 
 >Code of conduct
 >
