@@ -55,11 +55,16 @@ Please note:
 
 1. Pull Requests will be ignored until I receive a message from the contributor.
 2. Issue Requests will be ignored - this is a full release.
-3. Please refer to the [code of conduct]() for further details on contribution
+3. Please refer to the [code of conduct]() for further details on contribution and fostering our project enviroment as a contributer
 
 >Code of conduct
 >
->>Enter quote here
+>>In the interest of fostering an open and welcoming environment, we as
+>>contributors and maintainers pledge to make participation in our project and
+>>our community a harassment-free experience for everyone, regardless of age, body
+>>size, disability, ethnicity, sex characteristics, gender identity and expression,
+>>level of experience, education, socio-economic status, nationality, personal
+>>appearance, race, religion, or sexual identity and orientation.
 ********
 ### License Justification
 I chose to use the MIT license with DoSomething so that I could maximize the usability of my code for others. I have no vested interests in profiting off of it in any way, so I went with a license that I believe granted the most liberties to those who want to use my code.
